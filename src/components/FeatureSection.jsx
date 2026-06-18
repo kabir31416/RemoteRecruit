@@ -3,7 +3,7 @@ import shortlogo from "../assets/ShortLogo.png";
 
 export default function Features() {
     return (
-        <section className="w-full bg-[#f8fafc] py-20 px-6 md:px-12 lg:px-24 font-sans antialiased overflow-hidden">
+        <section className="w-full bg-[#f8fafc] py-10 px-6 md:px-12 lg:px-24 font-sans antialiased overflow-hidden">
             <div className="max-w-[1240px] mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 items-center">
 
 
@@ -24,7 +24,6 @@ export default function Features() {
                         people for them, wherever they may be.
                     </p>
                 </div>
-
 
                 <div className="lg:col-span-7 relative w-full flex justify-center lg:justify-end py-10">
 
@@ -63,7 +62,6 @@ export default function Features() {
                             <span className="text-[15px] font-bold text-slate-800 tracking-tight">Felonious Gru</span>
                         </div>
                     </div>
-
 
                     {/* 2nd card */}
                     <div className="absolute bottom-[8%] left-[10%] md:left-[22%] lg:left-[45%] w-[260px] md:w-[280px] bg-white/95 backdrop-blur-sm rounded-full p-2.5 shadow-[0_15px_35px_-5px_rgba(0,0,0,0.1)] border border-slate-100 flex items-center gap-4 z-20 transition-transform hover:-translate-y-1 duration-300">
