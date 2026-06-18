@@ -29,7 +29,7 @@ export default function Features() {
                 <div className="lg:col-span-7 relative w-full flex justify-center lg:justify-end py-10">
 
                     {/* Blue dot */}
-                    <div className="absolute top-4 left-[15%] md:left-[35%] lg:left-[35%] w-5 h-5 bg-gradient-to-br from-blue-500 to-blue-700 rounded-full shadow-md z-0" />
+                    <div className="absolute top-4 left-[1%] md:left-[35%] lg:left-[35%] w-5 h-5 bg-gradient-to-br from-blue-500 to-blue-700 rounded-full shadow-md z-0" />
 
                     <div className="relative w-[340px] md:w-[380px] bg-white rounded-[32px] 
                          shadow-  [0_25px_60px_-15px_rgba(0,0,0,0.08)] border border-slate-100 p-4 z-10 overflow-hidden">
@@ -46,7 +46,7 @@ export default function Features() {
                         <div className="h-30"></div>
                     </div>
 
-
+                    {/* 1st card */}
                     <div className="absolute top-[55%] left-[5%] md:left-[15%] lg:left-[30%] w-[280px] md:w-[280px] bg-white/95 backdrop-blur-sm rounded-full p-2.5 shadow-[0_15px_35px_-5px_rgba(0,0,0,0.1)] border border-slate-100 flex items-center gap-4 z-20 transition-transform hover:-translate-y-1 duration-300">
 
 
@@ -65,8 +65,7 @@ export default function Features() {
                     </div>
 
 
-
-                    {/* 3. FLOATING CARD 2: Front End Wizard */}
+                    {/* 2nd card */}
                     <div className="absolute bottom-[8%] left-[10%] md:left-[22%] lg:left-[45%] w-[260px] md:w-[280px] bg-white/95 backdrop-blur-sm rounded-full p-2.5 shadow-[0_15px_35px_-5px_rgba(0,0,0,0.1)] border border-slate-100 flex items-center gap-4 z-20 transition-transform hover:-translate-y-1 duration-300">
 
                         {/* Avatar with Yellow Border */}
@@ -85,7 +84,7 @@ export default function Features() {
                         </div>
                     </div>
 
-                    {/* 4. FLOATING CARD 3: Circular Logo Badge */}
+                    {/* logo badge */}
                     <div className="absolute top-[32%] right-[2%] md:right-[15%] lg:right-[-3%] w-16 h-16 md:w-15 md:h-15 bg-gradient-to-br from-[#2a62cc] to-[#143475] rounded-full flex items-center justify-center shadow-[0_12px_28px_rgba(27,67,147,0.3)] border border-blue-400/20 z-20 transition-transform hover:scale-105 duration-300">
 
                         <img
