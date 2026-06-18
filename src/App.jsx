@@ -1,6 +1,7 @@
 
 import './App.css'
 import CommonQuestion from './components/CommonQuestion'
+import Features from './components/FeatureSection'
 import HeroSection from './components/HeroSection'
 import Navbar from './components/Navbar'
 
@@ -12,6 +13,7 @@ function App() {
       <div >
         <Navbar></Navbar>
         <HeroSection></HeroSection>
+        <Features></Features>
         <CommonQuestion></CommonQuestion>
       </div>
     </>
