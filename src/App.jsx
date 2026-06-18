@@ -1,6 +1,7 @@
 
 import './App.css'
 import CommonQuestion from './components/CommonQuestion'
+import CTASection from './components/CTASection'
 import FeaturesSecond from './components/FeatureSecSecond'
 import Features from './components/FeatureSection'
 import FeatureThird from './components/FeatureThirdSection'
@@ -18,6 +19,7 @@ function App() {
         <Features></Features>
         <FeaturesSecond></FeaturesSecond>
         <FeatureThird></FeatureThird>
+        <CTASection></CTASection>
         <CommonQuestion></CommonQuestion>
       </div>
     </>

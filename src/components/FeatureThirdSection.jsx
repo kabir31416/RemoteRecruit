@@ -39,6 +39,7 @@ export default function FeatureThird() {
                     <div className="relative w-[340px] md:w-[380px] bg-white rounded-[32px] 
                          shadow-  [0_25px_60px_-15px_rgba(0,0,0,0.08)] border border-slate-100 p-4 z-10 overflow-hidden">
 
+
                         <div className="w-full rounded-[20px] overflow-hidden mb-4">
                             <img
                                 src={Card2}
