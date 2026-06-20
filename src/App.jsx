@@ -8,6 +8,7 @@ import FeatureThird from './components/FeatureThirdSection'
 import Footer from './components/Footer'
 import HeroSection from './components/HeroSection'
 import Navbar from './components/Navbar'
+import ScrollToTop from './components/ScrollToTop'
 
 
 function App() {
@@ -23,8 +24,8 @@ function App() {
         <FeatureThird></FeatureThird>
         <CTASection></CTASection>
         <CommonQuestion></CommonQuestion>
-        
         <Footer></Footer>
+        <ScrollToTop></ScrollToTop>
       </div>
     </>
   )
