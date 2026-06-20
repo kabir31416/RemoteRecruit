@@ -11,6 +11,7 @@ const HeroSection = () => {
           backgroundImage: `url(${HeaderBg})`,
         }}
       >
+        
         <div className="relative z-10 w-full max-w-[840px] mx-auto text-center px-6 pt-20 pb-30 md:pt-45 flex flex-col justify-center items-center">
           <h1 className="text-4xl md:text-[54px] font-bold tracking-tight text-white mb-6 leading-[1.15]">
             RemoteRecruit's Difference

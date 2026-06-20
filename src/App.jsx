@@ -8,7 +8,7 @@ import FeatureThird from './components/FeatureThirdSection'
 import Footer from './components/Footer'
 import HeroSection from './components/HeroSection'
 import Navbar from './components/Navbar'
-import PricingSection from './components/PricingCards'
+
 
 function App() {
   
