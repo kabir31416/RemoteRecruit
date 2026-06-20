@@ -1,16 +1,59 @@
-# React + Vite
+# 🚀 RemoteRecruit – Home Page (Frontend Task)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo: https://remote-recruit-wine.vercel.app/
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Project Overview
 
-## React Compiler
+This project is a **pixel-perfect implementation** of the RemoteRecruit Home Page based on the provided Figma design.  
+It is built using modern frontend technologies with a strong focus on responsiveness, performance, and clean UI structure.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The goal was to replicate the design accurately while ensuring reusable components, smooth UX interactions, and optimized performance across devices.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- React.js (v18)
+- Tailwind CSS
+- Vite
+- JavaScript (ES6+)
+
+---
+
+## 📱 Features
+
+- Fully responsive design (Desktop, Tablet, Mobile)
+- Component-based architecture (reusable UI components)
+- Smooth scroll animations (fade-in / slide-up effects)
+- Hover states & interactive UI transitions
+- Scroll-to-top button functionality
+- Optimized image loading (lazy loading support)
+- Clean and maintainable folder structure
+
+---
+
+## 🎯 Key Sections Implemented
+
+- Hero Section
+- Features Section
+- Pricing / Plan Cards
+- FAQ Section (mock data used where needed)
+- Footer Section
+- Scroll to Top Button
+
+---
+
+## ⚡ Performance & Optimization
+
+- Optimized assets for faster load time
+- Lazy loading applied for images
+- Clean Tailwind utility usage for minimal CSS overhead
+- Lighthouse optimized (performance & accessibility focused)
+
+
+
+
+
+
