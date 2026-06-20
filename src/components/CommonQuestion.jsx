@@ -4,7 +4,7 @@ const CommonQuestion = () => {
     return (
         <div className="w-full bg-[#ffffff]">
 
-            <div className="max-w-4xl mx-auto px-6 py-12">
+            <div className="max-w-4xl mx-auto px-6 py-12 mb-50">
                 <h1 className="text-3xl font-bold text-center mb-12">Common Questions</h1>
 
                 <h2 className="text-xl font-semibold mb-4">Do I have to sign a long-term contract?</h2>

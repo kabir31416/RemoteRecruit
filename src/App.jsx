@@ -5,8 +5,10 @@ import CTASection from './components/CTASection'
 import FeaturesSecond from './components/FeatureSecSecond'
 import Features from './components/FeatureSection'
 import FeatureThird from './components/FeatureThirdSection'
+import Footer from './components/Footer'
 import HeroSection from './components/HeroSection'
 import Navbar from './components/Navbar'
+import PricingSection from './components/PricingCards'
 
 function App() {
   
@@ -21,6 +23,8 @@ function App() {
         <FeatureThird></FeatureThird>
         <CTASection></CTASection>
         <CommonQuestion></CommonQuestion>
+        
+        <Footer></Footer>
       </div>
     </>
   )

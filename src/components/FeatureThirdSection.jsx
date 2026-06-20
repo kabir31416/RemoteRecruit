@@ -11,7 +11,7 @@ export default function FeatureThird() {
     ];
 
     return (
-        <section className="w-full bg-[#f8fafc] py-10 px-6 md:px-12 lg:px-24 font-sans antialiased overflow-hidden">
+        <section className="w-full bg-white py-10 px-6 md:px-12 lg:px-24 font-sans antialiased overflow-hidden">
             <div className="max-w-[1240px] mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 items-center">
 
 

@@ -5,7 +5,7 @@ const Navbar = () => {
         <div>
             <nav className="absolute top-0 left-0 w-full z-10 flex items-center justify-between px-6 py-4 md:px-12 lg:px-24 bg-gradient-to-b from-blue-950/20 to-transparent">
         {/* Logo */}
-        <div className="flex items-center gap-1">
+        <div>
           <img src={Logo} alt="Logo"  />
         </div>
 
