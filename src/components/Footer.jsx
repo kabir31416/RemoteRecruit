@@ -12,7 +12,7 @@ import close from "../assets/close.png"
 
 import shortlogo from "../assets/ShortLogo.png";
 
-import Logo from "../assets/logo.png";
+import Logo from "../assets/Logo.png";
 
 import footerbg from "../assets/footerbg.png";
 
@@ -56,7 +56,7 @@ const Footer = () => {
                         </button>
                     </div>
 
-                    {/* Premium Plan */}
+                    
                     <div className="bg-white rounded-3xl p-5 md:p-6 shadow-2xl relative">
                         <span className="absolute top-4 left-4 bg-[#DDF8F4] text-[#256D75] px-3 py-1 rounded-full font-semibold text-xs md:text-sm">
                             Premium
